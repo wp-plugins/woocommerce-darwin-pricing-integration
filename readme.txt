@@ -1,10 +1,10 @@
 === WooCommerce Darwin Pricing Integration ===
 Contributors: sebastien-fauvel
 Donate link: https://www.darwinpricing.com/pricing
-Tags: woocommerce, darwin pricing, dynamic pricing, pricing optimization, price optimization, coupon, discount, promotion, widget, analytics
+Tags: analytics, coupon, darwin pricing, discount, dynamic pricing, price optimization, pricing optimization, promotion, widget, woocommerce
 Requires at least: 3.8
 Tested up to: 4.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -103,13 +103,13 @@ Don't leave anything to chance:
 3. Activate the plugin in the WordPress admin.
 4. Enter the Darwin Pricing ID of your website via the menu WooCommerce > Settings > Integration in the WordPress admin.
 5. Create coupon codes via the menu WooCommerce > Coupons in the WordPress admin.
-6. Setup geo-targeted coupon boxes in the Darwin Pricing admin.
+6. Setup geo-targeted coupon boxes in the [Darwin Pricing admin](https://www.darwinpricing.com/).
 
 == Frequently Asked Questions ==
 
 = How can I get a Darwin Pricing account? =
 
-You can create a free account by registering your store on [Darwin Pricing](https://www.darwinpricing.com/).
+You can [create a free account](https://admin.darwinpricing.com/sign-up) by registering your store on Darwin Pricing.
 
 = Where can I find the settings for this plugin? =
 
@@ -119,11 +119,22 @@ This plugin will add the settings for the Darwin Pricing integration to the Inte
 
 Once you have created a coupon code via the menu WooCommerce > Coupons in the WordPress admin,
 you can import it into [Darwin Pricing](https://www.darwinpricing.com/) by entering the text of the coupon box,
-e.g. “10% off your order! Use the discount code XXXXX on checkout”.
-Then you can either define the geo-targeting of your coupon boxes manually,
+e.g. “<h1>10% off your order!</h1> Use the discount code <b>XXXXX</b> on checkout”.
+From there, you can either define the geo-targeting of your coupon boxes manually,
 or let us optimize it in real-time for you.
 
+== Screenshots ==
+
+1. Launch geo-targeted sales campaigns with a single click
+2. Monitor the performance of your sales campaigns at a glance
+3. Customize the coupon box at will to fit your corporate design
+4. Let us manage your campaigns to boost your profits quickly
+
 == Changelog ==
+
+= 1.0.1 - 12/02/2015 =
+
+* Improved error massages
 
 = 1.0.0 - 07/02/2015 =
 
